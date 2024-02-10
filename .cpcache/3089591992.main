@@ -1,0 +1,4 @@
+-m
+nrepl.cmdline
+--middleware
+[shadow.cljs.devtools.server.nrepl/middleware,cider.nrepl/cider-middleware]
